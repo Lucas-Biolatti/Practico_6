@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ClassDiagram name="practico_6">
+<ClassDiagram name="Practico_6">
   <ClassDiagramComponents>
     <Class name="Matriz" package="practico_6" visibility="public" xPosition="20.0" yPosition="20.0">
       <Fields>
-        <Field name="arreglo" type="int" visibility="package"/>
+        <Field name="arreglo" type="int" visibility="private"/>
       </Fields>
       <Constructors/>
       <Methods>
